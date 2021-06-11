@@ -12,9 +12,10 @@
 
 ```
     CA1 ---- data ---- dairy_nutrition.csv
-        |         `-- glass.csv
+        |          `-- glass.csv
         |
         |-- doc ---- answers.docx
+        |        |-- answers.pdf
         |        `-- CA1_Brief.pdf
         |
         |-- Q1.ipynb
@@ -24,4 +25,4 @@
 
 ## See Also
 
-Answers:    `doc/answers.docx`
+Answers:    `doc/answers.docx` (Word) / `doc/answers.pdf` (PDF)
